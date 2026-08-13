@@ -4,6 +4,8 @@
  */
 package burgerlab;
 
+import burgerlab.view.MainDashBoardForm;
+
 /**
  *
  * @author Dinujaya Tharaka
@@ -14,7 +16,7 @@ public class BurgerLab {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        new MainDashBoardForm().setVisible(true);
     }
     
 }

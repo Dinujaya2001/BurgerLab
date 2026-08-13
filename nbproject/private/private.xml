@@ -3,11 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/model/Customer.java</file>
-            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/model/Order.java</file>
+            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/view/ManageCustomerForm.java</file>
+            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/view/MainDashBoardForm.java</file>
             <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/BurgerLab.java</file>
-            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/util/OrderStatus.java</file>
-            <file>file:/C:/Users/Dinujaya%20Tharaka/Documents/NetBeansProjects/BurgerLab/src/burgerlab/model/Items.java</file>
         </group>
     </open-files>
 </project-private>
